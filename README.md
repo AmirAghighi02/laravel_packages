@@ -1,21 +1,21 @@
 # laravel_packages
 gonna learn them all
 
-Basics: 
+Basics: <br/>
 
-[x] Pint
-[x] Reverb
-[] Passport
-[] Dusk
-[] Pennant
-[] Scout
-[] Octane
-[] Socialite
-[] Pulse
-[] Telescope
-[] Envoy
-[] Fortify
-[] Folio
+[x] Pint <br/>
+[x] Reverb <br/>
+[] Passport <br/>
+[] Dusk <br/>
+[] Pennant <br/>
+[] Scout <br/>
+[] Octane <br/>
+[] Socialite <br/>
+[] Pulse <br/>
+[] Telescope <br/>
+[] Envoy <br/>
+[] Fortify <br/>
+[] Folio <br/>
 
-Advanced: 
-... to be written
+Advanced: <br/>
+... to be written <br/>
